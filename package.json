@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "enquirer": "^2.3.6"
-  }
+  },
+  "name": "quite_rpg",
+  "description": "README",
+  "version": "1.0.0",
+  "main": "rpg.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kei-kmj/js_RPG.git"
+  },
+  "keywords": [
+    "rpg",
+    "game"
+  ],
+  "author": "kei-kmj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kei-kmj/js_RPG/issues"
+  },
+  "homepage": "https://github.com/kei-kmj/js_RPG#readme"
 }
+
